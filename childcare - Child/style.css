@@ -1,0 +1,35 @@
+/*!
+Theme Name: Childcare-Child
+Theme URI: http://underscores.me/
+Author: Dylan Rivero
+Author URI: http://drivero@techlaunch.online
+Template: Childcare
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: divo
+Tags: childcare-child
+*/
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+
+.social img {
+    width:80px;
+}
+
+div{
+    display:inline;
+}
+
+.social {
+    width:80px;
+    float: left;
+    position: relative;
+    top: -1086px;
+    left:906px;
+}
+
+p, a, h1, .colam-footer h2 , .page-header-inner ul li a {
+font-family:  'Indie Flower', cursive;
+font-size: 20px;
+}
